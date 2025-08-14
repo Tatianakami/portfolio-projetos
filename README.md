@@ -1,6 +1,8 @@
 # Portfólio de Projetos de Data Analytics
 
-Bem-vindo ao meu portfólio de projetos! Aqui compartilho trabalhos desenvolvidos em Python, SQL, Power BI, Machine Learning e desenvolvimento web com PHP. Este repositório foi criado para praticar Git, GitHub.dev, pull requests, issues e colaboração.
+Bem-vindo ao meu portfólio de projetos! Aqui compartilho trabalhos desenvolvidos em Python, SQL, Power BI, Machine Learning e desenvolvimento web com PHP. Este repositório foi criado para praticar **Git**, **GitHub.dev**, **pull requests**, **issues** e **colaboração**.
+
+---
 
 ## Projetos
 
@@ -8,19 +10,21 @@ Bem-vindo ao meu portfólio de projetos! Aqui compartilho trabalhos desenvolvido
 - **Descrição:** Sistema CRUD em PHP para gerenciar receitas e despesas.
 - **Tecnologias:** PHP, MySQL, CSS
 - **Status:** Concluído
-- [README detalhado](projetos/controle_financas/README.md)
+- [Leia mais](projetos/controle_financas/README.md)
 
 ### 2. Dashboard de Vendas
 - **Descrição:** Dashboard interativo em Python para análise de vendas.
 - **Tecnologias:** Python, Pandas, Matplotlib
 - **Status:** Concluído
-- [README detalhado](projetos/dashboard_vendas/README.md)
+- [Leia mais](projetos/dashboard_vendas/README.md)
 
 ### 3. Python Data Analytics
 - **Descrição:** Projeto de análise de dados em Python usando Jupyter Notebook.
 - **Tecnologias:** Python, Pandas, Plotly
 - **Status:** Concluído
-- [README detalhado](projetos/python_data_analytics/README.md)
+- [Leia mais](projetos/python_data_analytics/README.md)
+
+---
 
 ## Como contribuir
 
